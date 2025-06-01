@@ -89,6 +89,8 @@ Desktop version
 
 Mobile Version
 
+![Mobile View](./Mobile%20Version.png)
+
 ---
 
 ## 🙌 Acknowledgements
