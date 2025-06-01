@@ -83,8 +83,11 @@ todo-app/
 ---
 
 ## 📸 Screenshots
+Desktop version
 
-*Include screenshots of your application here to showcase its UI and features.*
+![App Preview](./preview.png)
+
+Mobile Version
 
 ---
 
